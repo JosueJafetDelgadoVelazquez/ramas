@@ -1,7 +1,13 @@
 HEAD
+HEAD
 Hola mundo
 main
 
 002
 otro cambio en 002
+
+001
 002
+
+001
+ 2477904 (commit en 001)
